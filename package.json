@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheCoreExT/wolf/issues"
   },
-  "homepage": "https://github.com/TheCoreExT/wolf#readme"
+  "homepage": "https://github.com/TheCoreExT/wolf#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
